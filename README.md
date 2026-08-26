@@ -2,7 +2,7 @@
 
 Сайт круглосуточной эвакуации автомобилей в Балашове и Саратовской области.
 
-Домен: [evakuator64.vercel.app](https://evakuator64.vercel.app)
+Домен: [evakuator-64.vercel.app](https://evakuator-64.vercel.app)
 
 ## Запуск
 
@@ -22,7 +22,7 @@ npm run dev
 ```
 TELEGRAM_BOT_TOKEN=
 TELEGRAM_CHAT_ID=
-NEXT_PUBLIC_SITE_URL=https://evakuator64.vercel.app
+NEXT_PUBLIC_SITE_URL=https://evakuator-64.vercel.app
 ```
 
 Без этих переменных форма покажет сообщение позвонить по телефону. Токен не попадает в клиентский JavaScript.

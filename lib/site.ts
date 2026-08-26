@@ -1,8 +1,8 @@
 export const SITE = {
   name: "Эвакуатор 64",
   brand: "ЭВАКУАТОР 64",
-  domain: "evakuator64.vercel.app",
-  url: "https://evakuator64.vercel.app",
+  domain: "evakuator-64.vercel.app",
+  url: "https://evakuator-64.vercel.app",
   phoneDisplay: "8 992 6666 200",
   phoneTel: "+79926666200",
   phoneRaw: "89926666200",
