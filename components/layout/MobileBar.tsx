@@ -11,10 +11,10 @@ export function MobileBar() {
           Позвонить
         </a>
         <a
-          href={`tel:${SITE.phoneTel}`}
+          href="#zayavka"
           className="flex min-h-12 items-center justify-center rounded-2xl bg-accent text-sm font-semibold text-ink"
         >
-          Вызвать эвакуатор
+          Оставить заявку
         </a>
       </div>
     </div>
