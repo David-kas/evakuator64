@@ -1,0 +1,10 @@
+app/
+components/
+lib/
+public/
+next.config.ts
+tsconfig.json
+postcss.config.mjs
+eslint.config.mjs
+node_modules/
+.next/
